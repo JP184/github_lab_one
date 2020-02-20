@@ -1,5 +1,7 @@
 <h1>What I've learned so far about Github</h1>
 
+<h2>Collaberator: Christopher Fulton</h2>
+
 <p>I've learned that github is a rather good piece of software/cloud storage and repo site that can hold your data<br>
 that will allow you to store and record changes easier. With the branching, it surely also makes it pretty neat and organized<br>
 to consistently go from test, deving and then pushing out to production to let things run and **work**.
